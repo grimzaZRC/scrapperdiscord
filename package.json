@@ -1,0 +1,12 @@
+{
+  "name": "scrapperdiscord",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Alloy-ready landing page for the Discord scraper project",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
